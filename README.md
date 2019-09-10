@@ -1,1 +1,1 @@
-# Faros.ai website
+# Faros AI Website
