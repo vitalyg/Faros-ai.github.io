@@ -36,9 +36,10 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/point-reyes-lighthouse.jpg': 'right',
+							'images/point-reyes-lighthouse.jpg': 'center',
 							'images/point-reyes-ocean.jpg': 'center',
-							'images/point-reyes-shore.jpg': 'center'
+							'images/point-reyes-shore.jpg': 'center',
+							'images/monterey-bay-waves.jpg': 'center'
 						},
 
 					// Delay.
